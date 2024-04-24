@@ -1,0 +1,10 @@
+.syotimer__body {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+}
